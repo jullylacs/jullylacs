@@ -1,4 +1,6 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C20000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+J%C3%BAlia+L.+Silva)](https://git.io/typing-svg)
 
 <!--
 **jullylacs/jullylacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
