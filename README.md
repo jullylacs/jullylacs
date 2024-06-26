@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C20000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+J%C3%BAlia+L.+Silva)](https://git.io/typing-svg)
 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Jayc_Lacs/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@kakazu6653/)
+
+
+
 <!--
 **jullylacs/jullylacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
