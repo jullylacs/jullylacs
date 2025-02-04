@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@kakazu6653/)
 
 
--  Atualmente estou aprendendo TI (sendo mais exata, desenvolvimento de sistema)
+-  Atualmente estou aprendendo Desenvolvimento de sistemas
 -  Estou procurando me aprofundar mais na matéria
 
 ## 🛠️ sei um pouco sobre
