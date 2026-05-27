@@ -28,7 +28,7 @@
 
 ### `// linguagens`
 
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-2370ED?style=flat-square&logo=c&logoColor=white)
 
