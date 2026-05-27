@@ -3,9 +3,6 @@
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header&text=Júlia%20L.%20Silva&fontSize=36&fontColor=f0ede6&fontAlignY=65&animation=fadeIn"/>
 
-<!-- TYPING -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=CC2200&center=true&vCenter=true&repeat=true&random=false&width=500&lines=Desenvolvedora+Full+Stack;React+%7C+Node.js+%7C+Python+%7C+Django;Sistemas+web+do+zero+ao+deploy)](https://git.io/typing-svg)
-
 </div>
 
 ---
