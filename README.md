@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header&text=Júlia%20L.%20Silva&fontSize=36&fontColor=f0ede6&fontAlignY=65&animation=fadeIn"/>
 
 <!-- TYPING -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=CC2200&center=true&vCenter=true&repeat=true&random=false&width=500&lines=Desenvolvedora+de+Sistemas;Full+Stack+%7C+Python+%7C+JavaScript;Pronta+para+novos+desafios)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=CC2200&center=true&vCenter=true&repeat=true&random=false&width=500&lines=Desenvolvedora+Full+Stack;React+%7C+Node.js+%7C+Python+%7C+Django;Sistemas+web+do+zero+ao+deploy)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,8 +12,8 @@
 
 ```
 > whoami
-  Júlia L. Silva — Desenvolvedora de Sistemas
-  Stack: Python • JavaScript • React • Django • MySQL
+  Júlia L. Silva — Desenvolvedora Full Stack
+  Stack: React • Node.js • Python • Django • PostgreSQL • MySQL
   Status: disponível • construindo • entregando
 ```
 
@@ -26,9 +26,40 @@
 
 ---
 
+### `// projeto em destaque`
+
+<table>
+<tr>
+<td>
+
+**NVX Fibra LTDA — Plataforma Operacional**
+
+Plataforma web completa para operação de campo, desenvolvida em equipe como Full Stack.
+Sistema com Kanban, Agenda e colaboração em tempo real — do banco ao deploy.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1d4ed8?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-9333ea?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**O que foi entregue:**
+- Kanban com drag-and-drop, colunas dinâmicas, exportação CSV/Excel e importação Trello
+- Agenda com visualização por mês, semana e dia — drag-and-drop entre status
+- Sistema de comentários com menções, anexos, PDF e formatação rica
+- Autenticação JWT com refresh token, perfis de acesso e painel admin paginado
+- API REST versionada (`/api/v1`), documentação Swagger/OpenAPI embutida
+- Deploy com PM2 + Nginx reverse proxy + PostgreSQL em produção
+
+</td>
+</tr>
+</table>
+
+---
+
 ### `// linguagens`
 
-![React](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-2370ED?style=flat-square&logo=c&logoColor=white)
 
@@ -39,12 +70,18 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+### `// backend & dados`
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1d4ed8?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 ### `// ferramentas & ambiente`
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
