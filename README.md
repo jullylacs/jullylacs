@@ -15,12 +15,6 @@
 ```
 
 ---
-
-### `// redes`
-
-[![Instagram](https://img.shields.io/badge/-@Jayc__Lacs-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/Jayc_Lacs/)
-[![Discord](https://img.shields.io/badge/-@kakazu6653-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/@kakazu6653/)
-
 ---
 
 ### `// projeto em destaque`
